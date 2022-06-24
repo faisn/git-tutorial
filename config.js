@@ -19,5 +19,12 @@ console.log("git log --all --graph" + "to see the graphical view of the versions
 console.log("git checkout <hash|branch> <file|folder>")
 console.log("git commmit -m  " + "msg")
 
+//link the local repo to remote
+console.log("git remote add origin {https of the remote repo}");
+console.log("git remote ")
+console.log("for more details git remote -v {v stands for verbose}");
+console.log("git remote remove {name of it like origin}");
+
+
 
 
